@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigwater.ltd</id>
     <title>BigWater.Ltd</title>
-    <updated>2020-06-11T14:18:59.328Z</updated>
+    <updated>2020-06-11T14:24:07.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigwater.ltd"/>
     <link rel="self" href="https://bigwater.ltd/atom.xml"/>
@@ -76,14 +76,14 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[Hello Gridea111]]></title>
         <id>https://bigwater.ltd/post/hello-gridea-2/</id>
         <link href="https://bigwater.ltd/post/hello-gridea-2/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
-<img src="https://bigwater.ltd/post-images/1.png" alt="" title="wo" loading="lazy"></p>
+<img src="/post-images/1.png" alt="" title="wo" loading="lazy"></p>
 ]]></summary>
         <content type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
 ✍️  <strong>Gridea</strong> 一个静态博客写作客户端。你可以用它来记录你的生活、心情、知识、笔记、创意... ...<br>
