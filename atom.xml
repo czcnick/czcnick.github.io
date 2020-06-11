@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://bigwater.ltd</id>
     <title>BigWater.Ltd</title>
-    <updated>2020-06-11T11:52:24.986Z</updated>
+    <updated>2020-06-11T12:10:21.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://bigwater.ltd"/>
     <link rel="self" href="https://bigwater.ltd/atom.xml"/>
@@ -10,6 +10,71 @@
     <logo>https://bigwater.ltd/images/avatar.png</logo>
     <icon>https://bigwater.ltd/favicon.ico</icon>
     <rights>All rights reserved 2020, BigWater.Ltd</rights>
+    <entry>
+        <title type="html"><![CDATA[Markdown基本语法]]></title>
+        <id>https://bigwater.ltd/post/markdown-ji-ben-yu-fa/</id>
+        <link href="https://bigwater.ltd/post/markdown-ji-ben-yu-fa/">
+        </link>
+        <updated>2020-06-11T11:54:49.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="一级标题">一级标题</h1>
+<h2 id="字体">字体</h2>
+<h3 id="加粗">加粗</h3>
+<p>加粗使用**<br>
+示例<strong>粗体</strong></p>
+<h3 id="斜体">斜体</h3>
+<p>斜体使用*<br>
+示例<em>斜体</em></p>
+<h3 id="删除线">删除线</h3>
+<p>删除使用~~<br>
+示例<s>删除</s></p>
+<h2 id="引用">引用</h2>
+<p>引用使用</p>
+<blockquote>
+<p>这里是引用内容。</p>
+</blockquote>
+<h2 id="分割">分割</h2>
+<p>分割使用</p>
+<hr>
+<p>分割线</p>
+<hr>
+<h2 id="图片">图片</h2>
+<figure data-type="image" tabindex="1"><img src="url%22%E6%A0%87%E9%A2%98%22" alt="图片标题" loading="lazy"></figure>
+<h2 id="列表">列表</h2>
+<ul>
+<li>列表内容</li>
+<li>列表内容</li>
+</ul>
+<ol>
+<li>列表内容</li>
+<li>列表内容</li>
+</ol>
+<ul>
+<li>上级</li>
+<li>下级
+<ul>
+<li>下级</li>
+</ul>
+</li>
+<li>上级</li>
+<li>下级</li>
+</ul>
+<h2 id="表格">表格</h2>
+<table>
+<thead>
+<tr>
+<th>项目</th>
+<th style="text-align:center">名称</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>python</td>
+<td style="text-align:center">东方</td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://bigwater.ltd/post/hello-gridea/</id>
